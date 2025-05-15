@@ -1,0 +1,4 @@
+Escaneo LAN - 192.168.0.0/24
+
+[+] 192.168.0.1   -   Sistema Estimado: Windows
+[+] 192.168.0.10   -   Sistema Estimado: Windows

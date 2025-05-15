@@ -1,0 +1,18 @@
+[!] Posible hallazgo en: C:\WINDOWS\System32\LogFiles\setupcln\setupact.log
+[!] Posible hallazgo en: C:\WINDOWS\System32\LogFiles\setupcln\setuperr.log
+[!] Posible hallazgo en: C:\Program Files\Google\Chrome\Application\debug.log
+[!] Posible hallazgo en: C:\Program Files\Microsoft Office\root\Office16\3082\Client2019_eula.txt
+[!] Posible hallazgo en: C:\Program Files\Microsoft Office\root\Office16\3082\Client2021_eula.txt
+[!] Posible hallazgo en: C:\Program Files\Microsoft Office\root\Office16\3082\client2024_eula.txt
+[!] Posible hallazgo en: C:\Program Files\Microsoft Office\root\Office16\3082\ClientSub_eula.txt
+[!] Posible hallazgo en: C:\Program Files\Microsoft Office\root\Office16\3082\ClientSub_M365_eula.txt
+[!] Posible hallazgo en: C:\Program Files\Microsoft Office\root\Office16\3082\client_eula.txt
+[!] Posible hallazgo en: C:\Program Files\Microsoft Office\root\Office16\3082\smb_eula.txt
+[!] Posible hallazgo en: C:\Program Files\Microsoft Office\root\Office16\3082\smb_eula_v2.txt
+[!] Posible hallazgo en: C:\Program Files\Microsoft Office\root\Office16\3082\WordNaiveBayesCommandRanker.txt
+[!] Posible hallazgo en: C:\Program Files\WindowsPowerShell\Modules\Pester\3.4.0\en-US\about_Pester.help.txt
+[!] Posible hallazgo en: C:\Program Files\WindowsPowerShell\Modules\Pester\3.4.0\en-US\about_should.help.txt
+[!] Posible hallazgo en: C:\Program Files\WinRAR\License.txt
+[!] Posible hallazgo en: C:\Program Files (x86)\Google\GoogleUpdater\updater.log
+[!] Posible hallazgo en: C:\Program Files (x86)\WindowsPowerShell\Modules\Pester\3.4.0\en-US\about_Pester.help.txt
+[!] Posible hallazgo en: C:\Program Files (x86)\WindowsPowerShell\Modules\Pester\3.4.0\en-US\about_should.help.txt

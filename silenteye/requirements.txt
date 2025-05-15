@@ -1,0 +1,29 @@
+python main.py --help
+
+python main.py --target google.com --headers
+✅ Te muestre el análisis de cabeceras.
+
+python main.py --target google.com
+✅ Te hace el escaneo de puertos como siempre.
+
+
+python main.py --scan-lan
+✅ Te escanea la red local automáticamente.
+
+python main.py --target google.com --headers
+✅ Te muestre el análisis de cabeceras.
+
+
+
+
+🧰 Opciones disponibles
+Comando	Descripción
+--target <IP o dominio>	Objetivo a escanear
+--ports <puertos>	Rango o lista de puertos a escanear (por defecto: 1-1024)
+--verbose	Muestra más detalles del escaneo
+--scan-lan	Escanea la red local (requiere indicar el rango como 192.168.1.0/24)
+--scan-lan auto	Escanea la red local detectando automáticamente el rango IP
+--analyze-headers	Analiza las cabeceras HTTP del objetivo indicado en --target
+--analyze-logs	Escanea los logs del sistema (Windows y Linux) y genera un reporte
+--help	Muestra esta ayuda
+
